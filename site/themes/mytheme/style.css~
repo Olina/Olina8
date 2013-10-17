@@ -1,0 +1,11 @@
+/** 
+ * Description: Sample theme for site which extends the Olina grid-theme.
+ */
+@import url(../../../themes/grid/style.css);
+
+html{background-color:#84BD98;}
+body{background-color:#EFF3F5;}
+#outer-wrap-header{background-color:#FFE2B3;border-bottom:2px solid #FFF5E5}
+#outer-wrap-footer{background-color:#FFE2B3}
+a{color:#1C2A30}
+#navbar ul.menu li a.selected{background-color:#84BD98;border-bottom:none;}
