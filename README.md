@@ -12,7 +12,7 @@ git clone git://github.com/Olina/Olina8.git
 Installation
 ---------------
 
-1: måste du göra data-katalogen skrivbar. 
+1: Först måste du göra data-katalogen skrivbar. 
 Detta är platsen där Olina8 måste kunna skriva och skapa filer. 
 Du gör det med desssa komandon:
 cd Olina8
