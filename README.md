@@ -18,7 +18,7 @@ Du gör det med desssa komandon:
 cd Olina8
 chmod 777 site/data
 
-2: Först måste du gå in i filen .htaccess och ändra koden ~lijc13/phpMVC/Olina8/ till din egen root och där du sätter din Olina8
+2: Sedan måste du gå in i filen .htaccess och ändra koden ~lijc13/phpMVC/Olina8/ till din egen root och där du sätter din Olina8
 
 3: Initiera moduler i Olina8:
 
