@@ -1,4 +1,4 @@
-Lydia, the site directory
+Olina, the site directory
 =========================
 
 Some people would call this the application directory, I call it the site directory. It should 
