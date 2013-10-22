@@ -52,7 +52,7 @@ class CFormContent extends CForm {
   public function DoDelete($form, $content) {
     $content['id'] = $form['id']['value'];
     $content->Delete();
-    CLydia::Instance()->RedirectTo('content');
+    COlina::Instance()->RedirectTo('content');
   }
   
   

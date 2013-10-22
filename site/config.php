@@ -14,7 +14,7 @@ ini_set('display_errors', 1);
 /**
  * Set what to show as debug or developer information in the get_debug() theme helper.
  */
-$olina->config['debug']['lydia'] = false;
+$olina->config['debug']['olina'] = false;
 $olina->config['debug']['session'] = false;
 $olina->config['debug']['timer'] = true;
 $olina->config['debug']['db-num-queries'] = true;
@@ -130,6 +130,7 @@ $olina->config['menus'] = array(
   'my-navbar' => array(
     'home'      => array('label'=>'About Me', 'url'=>'my'),
     'blog'      => array('label'=>'My Blog', 'url'=>'my/blog'),
+    'content'   => array('label'=>'Content', 'url'=>'content'),
     'guestbook' => array('label'=>'Guestbook', 'url'=>'my/guestbook'),
   ),
 );
