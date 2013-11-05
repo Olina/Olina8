@@ -1,5 +1,5 @@
 RewriteEngine on
-RewriteBase /~lijc13/phpMVC/Olina8/
+RewriteBase /~lijc13/phpmvc/Olina8/
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 
